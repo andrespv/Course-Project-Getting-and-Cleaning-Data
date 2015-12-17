@@ -1,6 +1,6 @@
 # Course-Project-Getting-and-Cleaning-Data
 
-###The dataset being used is from: Human Activity Recognition Using Smartphones
+###The dataset being used is: Human Activity Recognition Using Smartphones
 
 1- Download the dataset if it does not already exist in the working directory
 
